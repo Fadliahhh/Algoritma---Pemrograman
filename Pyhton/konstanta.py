@@ -1,0 +1,2 @@
+PI = 90.20
+GRAFITASI = 90
